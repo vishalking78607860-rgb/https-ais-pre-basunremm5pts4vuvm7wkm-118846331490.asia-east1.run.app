@@ -1,0 +1,6 @@
+{
+  "name": "Satta King Fast - Live Result & Control Panel",
+  "description": "Fast live result portal with complete admin control panel to manage games, open live results, customize WhatsApp number, and view monthly record charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

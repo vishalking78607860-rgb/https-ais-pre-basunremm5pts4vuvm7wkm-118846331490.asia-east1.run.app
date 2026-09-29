@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-teko {
+    font-family: 'Teko', sans-serif;
+  }
+  .font-hind {
+    font-family: 'Hind', sans-serif;
+  }
+  .font-chakra {
+    font-family: 'Chakra Petch', monospace;
+  }
+  .glow-gold {
+    box-shadow: 0 0 25px -5px rgba(245, 158, 11, 0.4);
+  }
+  .glow-green {
+    box-shadow: 0 0 25px -5px rgba(34, 197, 94, 0.45);
+  }
+  .glow-red {
+    box-shadow: 0 0 25px -5px rgba(239, 68, 68, 0.45);
+  }
+  .text-glow-gold {
+    text-shadow: 0 0 12px rgba(245, 158, 11, 0.6);
+  }
+  .text-glow-red {
+    text-shadow: 0 0 12px rgba(239, 68, 68, 0.6);
+  }
+  .text-glow-green {
+    text-shadow: 0 0 12px rgba(34, 197, 94, 0.6);
+  }
+}
+
+@keyframes flash-fast {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.35; transform: scale(0.97); }
+}
+
+.animate-flash-fast {
+  animation: flash-fast 1s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.animate-marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: marquee 25s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+

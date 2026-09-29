@@ -1,0 +1,462 @@
+{
+  "games": [
+    {
+      "id": "disawar",
+      "name": "DISAWAR",
+      "hindiName": "दिसावर",
+      "openTime": "05:00 AM",
+      "time24": "05:00",
+      "category": "King Special",
+      "todayResult": "64",
+      "yesterdayResult": "91",
+      "status": "active",
+      "sortOrder": 1,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "amber"
+    },
+    {
+      "id": "faridabad",
+      "name": "FARIDABAD",
+      "hindiName": "फरीदाबाद",
+      "openTime": "06:00 PM",
+      "time24": "18:00",
+      "category": "Main King",
+      "todayResult": "28",
+      "yesterdayResult": "53",
+      "status": "active",
+      "sortOrder": 2,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "emerald"
+    },
+    {
+      "id": "ghaziabad",
+      "name": "GHAZIABAD",
+      "hindiName": "गाजियाबाद",
+      "openTime": "08:15 PM",
+      "time24": "20:15",
+      "category": "Main King",
+      "todayResult": "83",
+      "yesterdayResult": "19",
+      "status": "active",
+      "sortOrder": 3,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "rose"
+    },
+    {
+      "id": "gali",
+      "name": "GALI",
+      "hindiName": "गली",
+      "openTime": "11:15 PM",
+      "time24": "23:15",
+      "category": "King Special",
+      "todayResult": "WAIT",
+      "yesterdayResult": "77",
+      "status": "active",
+      "sortOrder": 4,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "isLiveFlashing": true,
+      "color": "amber"
+    },
+    {
+      "id": "delhi-bazaar",
+      "name": "DELHI BAZAAR",
+      "hindiName": "दिल्ली बाजार",
+      "openTime": "03:15 PM",
+      "time24": "15:15",
+      "category": "Delhi State",
+      "todayResult": "39",
+      "yesterdayResult": "42",
+      "status": "active",
+      "sortOrder": 5,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "cyan"
+    },
+    {
+      "id": "shree-ganesh",
+      "name": "SHREE GANESH",
+      "hindiName": "श्री गणेश",
+      "openTime": "04:30 PM",
+      "time24": "16:30",
+      "category": "Delhi State",
+      "todayResult": "51",
+      "yesterdayResult": "80",
+      "status": "active",
+      "sortOrder": 6,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "purple"
+    },
+    {
+      "id": "taj",
+      "name": "TAJ",
+      "hindiName": "ताज",
+      "openTime": "03:00 PM",
+      "time24": "15:00",
+      "category": "Super Fast",
+      "todayResult": "07",
+      "yesterdayResult": "66",
+      "status": "active",
+      "sortOrder": 7,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "amber"
+    },
+    {
+      "id": "kashipur",
+      "name": "KASHIPUR",
+      "hindiName": "काशीपुर",
+      "openTime": "04:15 PM",
+      "time24": "16:15",
+      "category": "Super Fast",
+      "todayResult": "95",
+      "yesterdayResult": "12",
+      "status": "active",
+      "sortOrder": 8,
+      "resultUpdatedAt": "2026-09-28T08:40:25.423Z",
+      "color": "emerald"
+    }
+  ],
+  "contact": {
+    "whatsappNumber": "9876543210",
+    "whatsappName": "VISHAL BHAI ONLINE KHAIWAL",
+    "whatsappCustomMessage": "Namaste Vishal Bhai! Mujhe online game khelna hai aur rate pata karna hai.",
+    "callingNumber": "9876543210",
+    "telegramUsername": "sattakingfast_official",
+    "websiteUrl": "https://ais-pre-basunremm5pts4vuvm7wkm-118846331490.asia-east1.run.app",
+    "marqueeText": "👑 SATTA KING 777 FAST LIVE RESULT - सबसे तेज, सबसे आगे! सभी गेम (दिसावर, फरीदाबाद, गाजियाबाद, गली) का पक्का लाइव रिजल्ट यहाँ देखें। खाईवाल विशाल भाई से सीधा संपर्क करें! 👑",
+    "noticeHeading": "🔥 ईमानदार खाईवाल - सुपर फास्ट पेमेंट गारंटी 🔥",
+    "noticeContent": "जोड़ी रेट: 10 का 950 | हरूफ रेट: 100 का 950 | पेमेंट तुरंत 5 मिनट में (PhonePe / GooglePay / Paytm)",
+    "paymentNotice": "Payment Proof Instant Within 5 Minutes | 100% Trusted Since 2018"
+  },
+  "leakGuessing": {
+    "singleJodi": [
+      "48",
+      "93"
+    ],
+    "solidJodi": [
+      "15",
+      "60",
+      "72",
+      "27"
+    ],
+    "supportJodi": [
+      "33",
+      "88",
+      "04",
+      "59"
+    ],
+    "harupAnder": "4 और 9",
+    "harupBahar": "2 और 7",
+    "updatedAt": "28 Sept 2026",
+    "announcement": "आज का पक्का लीक नंबर और सॉलिड अनकट हरूफ। 100% फिक्स गेम पासिंग रिकॉर्ड!"
+  },
+  "chartData": [
+    {
+      "month": 9,
+      "year": 2026,
+      "records": {
+        "1": {
+          "disawar": "17",
+          "faridabad": "43",
+          "ghaziabad": "56",
+          "gali": "56",
+          "delhi-bazaar": "17",
+          "shree-ganesh": "12",
+          "taj": "25",
+          "kashipur": "08"
+        },
+        "2": {
+          "disawar": "34",
+          "faridabad": "60",
+          "ghaziabad": "73",
+          "gali": "73",
+          "delhi-bazaar": "34",
+          "shree-ganesh": "29",
+          "taj": "42",
+          "kashipur": "25"
+        },
+        "3": {
+          "disawar": "51",
+          "faridabad": "77",
+          "ghaziabad": "90",
+          "gali": "90",
+          "delhi-bazaar": "51",
+          "shree-ganesh": "46",
+          "taj": "59",
+          "kashipur": "42"
+        },
+        "4": {
+          "disawar": "68",
+          "faridabad": "94",
+          "ghaziabad": "07",
+          "gali": "07",
+          "delhi-bazaar": "68",
+          "shree-ganesh": "63",
+          "taj": "76",
+          "kashipur": "59"
+        },
+        "5": {
+          "disawar": "85",
+          "faridabad": "11",
+          "ghaziabad": "24",
+          "gali": "24",
+          "delhi-bazaar": "85",
+          "shree-ganesh": "80",
+          "taj": "93",
+          "kashipur": "76"
+        },
+        "6": {
+          "disawar": "02",
+          "faridabad": "28",
+          "ghaziabad": "41",
+          "gali": "41",
+          "delhi-bazaar": "02",
+          "shree-ganesh": "97",
+          "taj": "10",
+          "kashipur": "93"
+        },
+        "7": {
+          "disawar": "19",
+          "faridabad": "45",
+          "ghaziabad": "58",
+          "gali": "58",
+          "delhi-bazaar": "19",
+          "shree-ganesh": "14",
+          "taj": "27",
+          "kashipur": "10"
+        },
+        "8": {
+          "disawar": "36",
+          "faridabad": "62",
+          "ghaziabad": "75",
+          "gali": "75",
+          "delhi-bazaar": "36",
+          "shree-ganesh": "31",
+          "taj": "44",
+          "kashipur": "27"
+        },
+        "9": {
+          "disawar": "53",
+          "faridabad": "79",
+          "ghaziabad": "92",
+          "gali": "92",
+          "delhi-bazaar": "53",
+          "shree-ganesh": "48",
+          "taj": "61",
+          "kashipur": "44"
+        },
+        "10": {
+          "disawar": "70",
+          "faridabad": "96",
+          "ghaziabad": "09",
+          "gali": "09",
+          "delhi-bazaar": "70",
+          "shree-ganesh": "65",
+          "taj": "78",
+          "kashipur": "61"
+        },
+        "11": {
+          "disawar": "87",
+          "faridabad": "13",
+          "ghaziabad": "26",
+          "gali": "26",
+          "delhi-bazaar": "87",
+          "shree-ganesh": "82",
+          "taj": "95",
+          "kashipur": "78"
+        },
+        "12": {
+          "disawar": "04",
+          "faridabad": "30",
+          "ghaziabad": "43",
+          "gali": "43",
+          "delhi-bazaar": "04",
+          "shree-ganesh": "99",
+          "taj": "12",
+          "kashipur": "95"
+        },
+        "13": {
+          "disawar": "21",
+          "faridabad": "47",
+          "ghaziabad": "60",
+          "gali": "60",
+          "delhi-bazaar": "21",
+          "shree-ganesh": "16",
+          "taj": "29",
+          "kashipur": "12"
+        },
+        "14": {
+          "disawar": "38",
+          "faridabad": "64",
+          "ghaziabad": "77",
+          "gali": "77",
+          "delhi-bazaar": "38",
+          "shree-ganesh": "33",
+          "taj": "46",
+          "kashipur": "29"
+        },
+        "15": {
+          "disawar": "55",
+          "faridabad": "81",
+          "ghaziabad": "94",
+          "gali": "94",
+          "delhi-bazaar": "55",
+          "shree-ganesh": "50",
+          "taj": "63",
+          "kashipur": "46"
+        },
+        "16": {
+          "disawar": "72",
+          "faridabad": "98",
+          "ghaziabad": "11",
+          "gali": "11",
+          "delhi-bazaar": "72",
+          "shree-ganesh": "67",
+          "taj": "80",
+          "kashipur": "63"
+        },
+        "17": {
+          "disawar": "89",
+          "faridabad": "15",
+          "ghaziabad": "28",
+          "gali": "28",
+          "delhi-bazaar": "89",
+          "shree-ganesh": "84",
+          "taj": "97",
+          "kashipur": "80"
+        },
+        "18": {
+          "disawar": "06",
+          "faridabad": "32",
+          "ghaziabad": "45",
+          "gali": "45",
+          "delhi-bazaar": "06",
+          "shree-ganesh": "01",
+          "taj": "14",
+          "kashipur": "97"
+        },
+        "19": {
+          "disawar": "23",
+          "faridabad": "49",
+          "ghaziabad": "62",
+          "gali": "62",
+          "delhi-bazaar": "23",
+          "shree-ganesh": "18",
+          "taj": "31",
+          "kashipur": "14"
+        },
+        "20": {
+          "disawar": "40",
+          "faridabad": "66",
+          "ghaziabad": "79",
+          "gali": "79",
+          "delhi-bazaar": "40",
+          "shree-ganesh": "35",
+          "taj": "48",
+          "kashipur": "31"
+        },
+        "21": {
+          "disawar": "57",
+          "faridabad": "83",
+          "ghaziabad": "96",
+          "gali": "96",
+          "delhi-bazaar": "57",
+          "shree-ganesh": "52",
+          "taj": "65",
+          "kashipur": "48"
+        },
+        "22": {
+          "disawar": "74",
+          "faridabad": "00",
+          "ghaziabad": "13",
+          "gali": "13",
+          "delhi-bazaar": "74",
+          "shree-ganesh": "69",
+          "taj": "82",
+          "kashipur": "65"
+        },
+        "23": {
+          "disawar": "91",
+          "faridabad": "17",
+          "ghaziabad": "30",
+          "gali": "30",
+          "delhi-bazaar": "91",
+          "shree-ganesh": "86",
+          "taj": "99",
+          "kashipur": "82"
+        },
+        "24": {
+          "disawar": "08",
+          "faridabad": "34",
+          "ghaziabad": "47",
+          "gali": "47",
+          "delhi-bazaar": "08",
+          "shree-ganesh": "03",
+          "taj": "16",
+          "kashipur": "99"
+        },
+        "25": {
+          "disawar": "25",
+          "faridabad": "51",
+          "ghaziabad": "64",
+          "gali": "64",
+          "delhi-bazaar": "25",
+          "shree-ganesh": "20",
+          "taj": "33",
+          "kashipur": "16"
+        },
+        "26": {
+          "disawar": "42",
+          "faridabad": "68",
+          "ghaziabad": "81",
+          "gali": "81",
+          "delhi-bazaar": "42",
+          "shree-ganesh": "37",
+          "taj": "50",
+          "kashipur": "33"
+        },
+        "27": {
+          "disawar": "59",
+          "faridabad": "85",
+          "ghaziabad": "98",
+          "gali": "98",
+          "delhi-bazaar": "59",
+          "shree-ganesh": "54",
+          "taj": "67",
+          "kashipur": "50"
+        },
+        "28": {
+          "disawar": "64",
+          "faridabad": "28",
+          "ghaziabad": "83",
+          "gali": "WAIT",
+          "delhi-bazaar": "39",
+          "shree-ganesh": "51",
+          "taj": "07",
+          "kashipur": "95"
+        },
+        "29": {
+          "disawar": "--",
+          "faridabad": "--",
+          "ghaziabad": "--",
+          "gali": "--",
+          "delhi-bazaar": "--",
+          "shree-ganesh": "--",
+          "taj": "--",
+          "kashipur": "--"
+        },
+        "30": {
+          "disawar": "--",
+          "faridabad": "--",
+          "ghaziabad": "--",
+          "gali": "--",
+          "delhi-bazaar": "--",
+          "shree-ganesh": "--",
+          "taj": "--",
+          "kashipur": "--"
+        }
+      }
+    }
+  ],
+  "adminPin": "7860",
+  "likesCount": 14860,
+  "lastServerUpdate": "2026-09-29T08:20:15.713Z"
+}
